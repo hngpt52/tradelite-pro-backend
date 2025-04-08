@@ -4,4 +4,4 @@ python-dotenv
 supabase
 openai
 redis
-pytestpydantic-settings
+pydantic-settings
